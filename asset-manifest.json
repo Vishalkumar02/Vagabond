@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b1338bc.css",
+    "main.js": "/static/js/main.fbad2099.js",
+    "static/media/Greece_4.jpg": "/static/media/Greece_4.18ec0ca8ea1ec7d2a70b.jpg",
+    "static/media/Bali.jpg": "/static/media/Bali.3e4354011ce78b6e3970.jpg",
+    "static/media/India.jpg": "/static/media/India.eeffdbb8c4a642335c0a.jpg",
+    "static/media/italy.jpg": "/static/media/italy.f72095936ea4c065834d.jpg",
+    "static/media/Greece.jpg": "/static/media/Greece.fdac113d83e7084095e0.jpg",
+    "static/media/Swiz.jpg": "/static/media/Swiz.af0ef53734048ab1d545.jpg",
+    "static/media/Japan_5.jpg": "/static/media/Japan_5.0feb8fb2d14858ff0225.jpg",
+    "static/media/wall.jpg": "/static/media/wall.e31ed52b23371a8dbda4.jpg",
+    "static/media/Greece_2.jpg": "/static/media/Greece_2.7960689576642fa0c8d2.jpg",
+    "static/media/Greece_3.jpg": "/static/media/Greece_3.343abe612e77901e4531.jpg",
+    "static/media/Greece_1.jpg": "/static/media/Greece_1.1d601f4d813b61c3cc41.jpg",
+    "static/media/Greece_5.jpg": "/static/media/Greece_5.3b21fee784b1c13beab3.jpg",
+    "index.html": "/index.html",
+    "main.2b1338bc.css.map": "/static/css/main.2b1338bc.css.map",
+    "main.fbad2099.js.map": "/static/js/main.fbad2099.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b1338bc.css",
+    "static/js/main.fbad2099.js"
+  ]
+}
